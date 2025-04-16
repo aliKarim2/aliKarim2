@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Coding part-time
-### Aspiring Mechanical Engineer
+### 3rd Year EE Student
 
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliKarim2&show_icons=true&theme=radical)
